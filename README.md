@@ -5,8 +5,7 @@ Lets learn and grow!
 ## Connect me here:
 [Linkedin](https://www.linkedin.com/in/sergiopicazoserrano/)
 
-
-
+Cheers!
 <!--
 **sennayrton/sennayrton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
