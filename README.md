@@ -1,11 +1,11 @@
 # Hi 👋 I'm Sergio!
 
-  3rd year # Systems # Engineering student at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
-Lets learn and grow!
+  3rd year #Systems #Engineering student at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
 
 ## Connect me here:
 [Linkedin](https://www.linkedin.com/in/sergiopicazoserrano/)
 
+Lets learn and grow!
 Cheers!
 <!--
 **sennayrton/sennayrton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
