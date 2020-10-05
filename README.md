@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Sergio!
 
 <!--
 **sennayrton/sennayrton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+3rd year Systems Engineering student passionate about the world of new technologies, automotive and business. 
 
 Here are some ideas to get you started:
 
