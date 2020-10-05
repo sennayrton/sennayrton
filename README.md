@@ -1,19 +1,18 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
+### HEY WHAT'S UP? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
 3rd year **Systems Engineering** 👨🏻‍💻 student at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
-
 <br />
-In addition to IT, I enjoy strength training, eating healthy, and riding my bike.
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning C++ and new concepts of concurrent programming in Java. I also keep improving my skills in databases;
+- In addition to IT, I enjoy strength training 🚀, reading about nutrition and business 📖. And riding my bike!
 
-**Connect with me:**
+**Connect with me:** 📌
 
 <a href="https://www.linkedin.com/in/sergiopicazoserrano/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
