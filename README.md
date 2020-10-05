@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sergio!
 ## 3rd year Systems Engineering student at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
-### Lets learn and grow!
+Lets learn and grow!
 
 ## Connect me here:
 [Linkedin](https://www.linkedin.com/in/sergiopicazoserrano/)
