@@ -33,7 +33,7 @@ In addition to IT, I enjoy strength training, eating healthy, and riding my bike
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="POSTGRESQL"
 	width="35" height="35" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL"
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"
 	width="35" height="35" />
@@ -43,6 +43,7 @@ In addition to IT, I enjoy strength training, eating healthy, and riding my bike
 ![Sergio's Github Stats](https://github-readme-stats.vercel.app/api?username=sennayrton&show_icons=true&theme=radical)
 
 Lets learn and grow!
+
 Cheers!
 
 
