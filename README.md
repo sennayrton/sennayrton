@@ -5,7 +5,7 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://dev.to/sennayrton">
-  <img height="30" alt="Abhishek's LinkdeIN" width="22px" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true" />
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true" />
 </a>
 
 
