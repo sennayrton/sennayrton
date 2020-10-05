@@ -3,6 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
+
 <br />
 In addition to IT, I enjoy strength training, eating healthy, and riding my bike.
 
@@ -20,7 +21,7 @@ In addition to IT, I enjoy strength training, eating healthy, and riding my bike
 <a href="https://dev.to/sennayrton">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true" />
 </a>
-
+<br />
 
 **Languages and Tools:**  
 
