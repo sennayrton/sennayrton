@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+view raw
 ### Hi there 👋 I'm Sergio!
 ### 3rd year Systems Engineering student at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business. 
 
