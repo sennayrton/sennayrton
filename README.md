@@ -10,7 +10,7 @@
 <br />
 In addition to IT, I enjoy strength training, eating healthy, and riding my bike.
 
-<img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
