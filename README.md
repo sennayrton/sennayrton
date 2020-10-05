@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning C++ and new concepts of concurrent programming in Java. I also keep improving my skills in databases;
-- In addition to IT, I enjoy strength training 🚀, reading about nutrition and business 📖. And riding my bike!
+- 🚀 In addition to IT, I enjoy strength training, reading about nutrition and business 📖. And riding my bike!
 
 **Connect with me:** 📌
 
