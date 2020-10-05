@@ -8,7 +8,6 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
 <br />
@@ -18,7 +17,7 @@ In addition to IT, I enjoy strength training, eating healthy, and riding my bike
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+
 - 🌱 I’m currently learning C++ and new concepts of concurrent programming in Java. I also keep improving my skills in databases;
 
 **Languages and Tools:**  
@@ -30,8 +29,9 @@ In addition to IT, I enjoy strength training, eating healthy, and riding my bike
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 
-
+![Sergio's Github Stats](https://github-readme-stats.vercel.app/api?username=sennayrton&show_icons=true&theme=radical)
 
 Lets learn and grow!
 Cheers!
+
 
