@@ -20,6 +20,7 @@
 <a href="https://dev.to/sennayrton">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true" />
 </a>
+
 <br />
 
 **Languages and Tools:**  
@@ -42,7 +43,6 @@
 ![Sergio's Github Stats](https://github-readme-stats.vercel.app/api?username=sennayrton&show_icons=true&theme=radical)
 
 Lets learn and grow!
-
-Cheers!
+## Cheers!
 
 
