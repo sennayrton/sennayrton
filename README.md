@@ -22,7 +22,7 @@
 </a>
 
 <br />
-
+<br />
 
 **Languages and Tools:**  
 
@@ -45,6 +45,6 @@
 
 Lets learn and grow!
 
-**Cheers!
+**Cheers!**
 
 
