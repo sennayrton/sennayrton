@@ -41,8 +41,7 @@ I consider myself to be a very curious person, in continuous training and always
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"
 	width="35" height="35" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"
-	width="35" height="35" />
+
 	
 Lets learn and grow!
 
