@@ -1,5 +1,6 @@
 ### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
 3rd year **Systems Engineering** student 👨🏻‍💻 at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
+I consider myself to be a very curious person, in continuous training and always wanting to learn.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
