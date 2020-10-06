@@ -1,4 +1,4 @@
-### HEY WHAT'S UP? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
+### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
 3rd year **Systems Engineering** student 👨🏻‍💻 at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
