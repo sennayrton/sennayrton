@@ -1,6 +1,6 @@
 ### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
-3rd year **Systems Engineering** student 👨🏻‍💻 at "Universidad de Alcalá" passionate about the world of new technologies, automotive and business.
-I consider myself to be a very curious person, in continuous training and always wanting to learn.
+3rd year **Systems Engineering** student 👨🏻‍💻 at "Universidad de Alcalá". I am passionate about the world of new technologies, automotive and business.
+I consider myself being a very curious person, in continuous training and always wanting to learn.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
@@ -11,7 +11,7 @@ I consider myself to be a very curious person, in continuous training and always
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning C++ and new concepts of concurrent programming in Java. I also keep improving my skills in databases;
-- 🚀 In addition to IT, I enjoy strength training and reading about nutrition or business 📖. I like to ride my bike from time to time;
+- 🚀 In addition to IT, I enjoy strength training and reading about nutrition or business 📖. I like riding my bike from time to time;
 
 **Connect with me:** 📌
 
