@@ -44,7 +44,10 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"
 	width="35" height="35" />
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"
+	width="35" height="35" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unix/unix.png" alt="Unix"
+	width="35" height="35" />
 	
 Lets learn and grow!
 
