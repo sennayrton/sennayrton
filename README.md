@@ -4,17 +4,13 @@ I consider myself being a very curious person, in continuous training and always
 I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOps set. 
 
 
-
-
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 
 - 🚀 In addition to IT, I enjoy strength training and reading about nutrition or business 📖. I like riding my bike from time to time;
