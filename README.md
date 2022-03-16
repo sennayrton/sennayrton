@@ -10,6 +10,7 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 **SQL Course + Intermediate SQL Course 40 hours | Boluda.com** <br>
 **Python Course 21 hours + Master Python 5 hours | Udemy**
 
+<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
 
