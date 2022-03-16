@@ -3,7 +3,7 @@
 I consider myself being a very curious person, in continuous training and always wanting to learn.
 I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOps set. 
 
-**SQL Course + Intermediate SQL Course 40 hours | Boluda.com 
+**SQL Course + Intermediate SQL Course 40 hours | Boluda.com ** /n
 Python Course 21 hours + Master Python 5 hours | Udemy 
 DevOps Engineer Course 35 hours | AWS Educate**
 
