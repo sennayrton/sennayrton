@@ -3,6 +3,9 @@
 I consider myself being a very curious person, in continuous training and always wanting to learn.
 I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOps set. 
 
+
+**Courses I have taken:** <br>
+
 **DevOps Engineer Course 35 hours | AWS Educate** <br>
 **SQL Course + Intermediate SQL Course 40 hours | Boluda.com** <br>
 **Python Course 21 hours + Master Python 5 hours | Udemy**
@@ -14,7 +17,7 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
-**Talking about Personal Stuff:**
+
 
 
 - 🚀 In addition to IT, I enjoy strength training and reading about technology, fitness or racing competition 📖. I like riding my bike from time to time;
