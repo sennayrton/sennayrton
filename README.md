@@ -19,7 +19,7 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
 
-
+- 📚 The book that I'm reading now is The DevOPS Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations 
 - 🚀 In addition to IT, I enjoy strength training and reading about technology, fitness or racing competition 📖. I like riding my bike from time to time;
 
 **Connect with me:** 📌
