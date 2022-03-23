@@ -12,9 +12,6 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=sennayrton.sennayrton)
-
-<br />
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
