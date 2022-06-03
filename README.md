@@ -1,4 +1,4 @@
-### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sergio
+### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm Sergio
 **Systems Engineering** student 👨🏻‍💻 at "Universidad de Alcalá". I am passionate about the world of new technologies, automotive and business.
 I consider myself being a very curious person, in continuous training and always wanting to learn.
 I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOps set. 
