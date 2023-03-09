@@ -1,22 +1,10 @@
 ### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Sergio
-**DevOps at GMV and Systems Engineering** student 👨🏻‍💻. I am passionate about the world of new technologies, automotive and business.
+**DevOps Engineer at GMV and Systems Engineering student 👨🏻‍💻**. I am passionate about the world of new technologies, automotive and business.
 I consider myself being a very curious person, in continuous training and always wanting to learn.
-I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOps set. 
-
-
-**Courses I have taken:** <br>
-
-**DevOps Engineer Course 35 hours | AWS Educate** <br>
-**SQL Course + Intermediate SQL Course 40 hours | Boluda.com** <br>
-**Python Course 21 hours + Master Python 5 hours | Udemy**
-
-
 
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
-
-- 📚 The book that I'm reading now is The DevOPS Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations 
 - 🚀 In addition to IT, I enjoy strength training and reading about technology, fitness or racing competition 📖. I like riding my bike from time to time;
 
 **Connect with me:** 📌
@@ -48,7 +36,6 @@ I am personally learning in sysadmin, CI/CD, and taking an interest in the DevOp
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"
 	width="35" height="35" />
-
 
 	
 Lets learn and grow!
