@@ -5,7 +5,7 @@ I consider myself being a very curious person, in continuous training and always
 
 <img align="right" alt="GIF" src="https://github.com/sennayrton/sennayrton/blob/main/code2.gif" width="500" height="320" />
 
-- 🚀 In addition to IT, I enjoy strength training and reading about technology, fitness or racing competition 📖. I like riding my bike from time to time;
+- 🚀 In addition to IT, I enjoy strength training and reading about technology, fitness or racing competition 📖. I like riding my bike from time to time and I play tennis on a regular basis.
 
 **Connect with me:** 📌
 
@@ -22,7 +22,7 @@ I consider myself being a very curious person, in continuous training and always
 **Languages and Tools:**  
 
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="KUBERNETES"
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"
 	width="35" height="35" />
@@ -32,7 +32,7 @@ I consider myself being a very curious person, in continuous training and always
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="POSTGRESQL"
 	width="35" height="35" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/devops/devops.png" alt="DEVOPS"
 	width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"
 	width="35" height="35" />
