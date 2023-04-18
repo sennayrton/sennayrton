@@ -1,5 +1,5 @@
 ### HEY WHAT'S UP <𝚌𝚘𝚍𝚎𝚛𝚜/>!? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Sergio
-**DevOps Engineer at GMV and Systems Engineering student 👨🏻‍💻**. I am passionate about the world of new technologies, automotive and business.
+I am passionate about the world of new technologies, automotive and business.
 I consider myself being a very curious person, in continuous training and always wanting to learn.
 
 
